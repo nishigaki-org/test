@@ -4,3 +4,5 @@ protected void doGet(HttpServletRequest request, HttpServletResponse resp) {
     resp.getWriter().append("Search for " + firstName);
     resp.getWriter().append("</div>");
 }
+
+const a = ""
